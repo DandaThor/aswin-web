@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+    margin: 10%;
+    background-color: #f8f9fa;
+}
+.thanks{
+    background-color: white;
+}
+.h{
+    padding-top: 10px;
+    color: #636b6f;
+    font-weight: bolder;
+    background-color: white
+}
+.p{
+    padding-bottom: 20px;
+    background-color: white;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: #35a22c;
+}
+a:hover{
+    color: #085c00;
+}
